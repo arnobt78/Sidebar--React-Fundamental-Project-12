@@ -1,8 +1,11 @@
+
+<img width="941" alt="Screenshot 2025-02-09 at 16 10 43" src="https://github.com/user-attachments/assets/85af76e7-b3b1-44ee-9b2f-9a4252d2d010" />
+
 ## Sidebar - React Fundamental Project 12
 
 This project is a simple React application that demonstrates the use of global context to manage the state of a sidebar and a modal. The application includes three main components: Home, Modal, and Sidebar.
 
-**Online Live:**
+**Online Live:** https://sidebar-arnob.netlify.app/
 
 ## Running the Project
 
